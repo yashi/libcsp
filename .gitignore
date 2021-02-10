@@ -17,3 +17,6 @@ tags
 .DS_store
 *.pdf
 *.html
+GTAGS
+GPATH
+GRTAGS
